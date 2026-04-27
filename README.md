@@ -12,7 +12,7 @@ I enjoy transforming messy datasets into clear, actionable insights using modern
 - 🧠 Insight-driven storytelling  
 - 📈 BI dashboards (Power BI)
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -25,7 +25,7 @@ I enjoy transforming messy datasets into clear, actionable insights using modern
 
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 > A selection of my work in data analysis and visualization.
