@@ -42,6 +42,14 @@ This project analyzes recent sales data to guide decision-making for the launch.
 🔗 **Repository:** [View Project](https://github.com/NatValentine/Adventure-Works-Pre-Product-Launch-Analysis)
 
 
+### 🧹 Cleaning and Consolidating Multi-Source Sales Data
+
+This project focuses on building an ETL workflow in Power BI to clean, profile, and consolidate multi-source sales data.
+It includes anomaly detection, data integrity validation, and the creation of analysis-ready datasets for business reporting.
+
+🔗 **Repository:** [View Project](https://github.com/NatValentine/Cleaning-and-Consolidating-Multi-Source-Sales-Data)
+
+
 <!--<details>
   <summary>📚 Other Projects</summary>
 
