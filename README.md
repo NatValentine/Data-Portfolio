@@ -45,10 +45,23 @@ This project analyzes recent sales data to guide decision-making for the launch.
 ### 🧹 Cleaning and Consolidating Multi-Source Sales Data
 
 This project focuses on building an ETL workflow in Power BI to clean, profile, and consolidate multi-source sales data.
-It includes anomaly detection, data integrity validation, and the creation of analysis-ready datasets for business reporting.
+
+- 🔎 Anomaly detection
+- ✅ Data integrity validation
+- 📊 Analysis-ready datasets for business reporting
 
 🔗 **Repository:** [View Project](https://github.com/NatValentine/Cleaning-and-Consolidating-Multi-Source-Sales-Data)
 
+
+### ❄️ From Flat to Snowflake: Data Modeling in Power BI
+Designed and evolved multiple Power BI data models using the Adventure Works dataset, progressing from flat schemas to scalable Star and Snowflake architectures.
+
+- 🧹 Data cleaning
+- 🧑‍🤝‍🧑 Relationship management
+- 🌳 Hierarchical modeling
+- 🧠 Analytical Optimization
+
+🔗 **Repository:** [View Project](https://github.com/NatValentine/From-Flat-to-Snowflake-Data-Modeling-in-Power-BI)
 
 <!--<details>
   <summary>📚 Other Projects</summary>
